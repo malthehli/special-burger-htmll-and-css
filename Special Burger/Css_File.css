@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.abc {
+    color: #C76D0C;
+}
+.acb {
+    font-weight: bold;
+    /* [disabled]font-size: large; */
+    color: red;
+}
+body {
+    border: thin double #000000;
+    background-color: #CCCCCC;
+}
+footer {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+nav {
+    text-align: center;
+    font-size: large;
+}
+h1 {
+    text-align: center;
+}
+.cba   {
+    font-weight: bold;
+}
+
+.Tfi {
+    font-size: x-large;
+    text-align: center;
+}
+.uif {
+    text-align: center;
+}
